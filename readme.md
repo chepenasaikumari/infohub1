@@ -1,3 +1,6 @@
+#HERE DEMO VIDEO -->
+https://github.com/user-attachments/assets/2dd85afe-75e1-46a3-b804-f178b6f72f7e
+
 # 🌐 InfoHub — ByteXL Full Stack Coding Challenge
 
 A modern full-stack application built for the **ByteXL InfoHub Challenge**.  
